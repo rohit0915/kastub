@@ -1,0 +1,10 @@
+.Footer_heading_Links {
+  font-size: 15px;
+  color: #555;
+  padding-bottom: 5px;
+  line-height: 20px;
+}
+.Footer_heading_Links:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}

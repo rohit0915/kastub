@@ -1,0 +1,29 @@
+.table_header {
+  color: grey;
+}
+.amount_color {
+  color: green;
+}
+.table_header1 {
+  background-color: red;
+}
+.table_header2 {
+  background-color: green;
+}
+.Green_color {
+  color: green;
+}
+.red_color {
+  color: red;
+}
+.textfiled_margin {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.button_formatting {
+  background-color: #0070bb !important;
+  text-transform: capitalize !important;
+  color: white !important;
+  text-decoration: none !important;
+  outline: none !important;
+}

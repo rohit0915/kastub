@@ -1,0 +1,15 @@
+.tabs_text_formatting {
+  text-transform: capitalize !important;
+}
+.PrivateTabIndicator-colorSecondary-3 {
+  background-color: grey !important;
+}
+.PrivateTabIndicator-colorSecondary-7 {
+  background-color: grey !important;
+}
+@media only screen and (min-width: 300px) and (max-width: 800px) {
+  .user_tabs_in_mobile {
+    width: 33%;
+    font-size: 10px !important;
+  }
+}

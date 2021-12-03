@@ -1,0 +1,15 @@
+.box_home {
+  width: 100% !important;
+  background-color: #4acfcf44 !important;
+  height: 100px !important;
+  color: #fff !important;
+  border-radius: 15px;
+}
+.add_btn {
+  color: #fff;
+  font-size: 30px;
+}
+.add_message {
+  color: rgb(17, 158, 76);
+  font-size: 20px;
+}

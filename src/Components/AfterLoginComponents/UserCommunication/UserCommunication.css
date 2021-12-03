@@ -1,0 +1,72 @@
+.nav .nav-tabs {
+  float: left;
+  display: block;
+  margin-right: 20px;
+  border-bottom: 0;
+  border-right: 1px solid #ddd;
+  padding-right: 15px;
+}
+.nav-tabs .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  background: #f5f5f5;
+  width: 100%;
+}
+
+.nav-tabs .nav-link.active {
+  color: #000 !important;
+  background-color: pink !important;
+  border-color: transparent !important;
+}
+.nav-tabs .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: 0rem !important;
+  border-top-right-radius: 0rem !important;
+  color: black !important;
+}
+.tab-content > .active {
+  display: block;
+
+  min-height: 165px;
+}
+.nav.nav-tabs {
+  float: left;
+  display: block;
+  margin-right: 20px;
+  border-bottom: 0;
+  border-right: 1px solid transparent;
+  padding-right: 15px;
+  width: 100%;
+}
+
+.Outside_boder {
+  border: 2px solid lightgray !important;
+}
+
+.Edit_Prfile_btn {
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgb(0 0 0 / 25%) !important;
+  background-color: #5bb75b !important;
+  text-transform: capitalize !important;
+}
+
+.font_size_meaasges {
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.top_botton_boder {
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.mailcontent_font_size{
+    font-size: 12px;
+    font-weight: 700 !important;
+}
+@media only screen and (min-width: 300px) and (max-width: 800px) {
+  .tab-content {
+    margin-top: 218px !important;
+  }
+}

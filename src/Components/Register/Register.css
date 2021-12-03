@@ -1,0 +1,62 @@
+.Register_Main_div {
+  text-align: center !important;
+  width: 400px;
+  margin: auto;
+}
+.form_width {
+  height: auto !important;
+  width: 400px;
+  border-radius: 8px;
+  margin-top: 30px;
+  
+}
+
+.main_padding_top_bottom {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.Register_heading {
+  padding-top: 5%;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+.login_register_width {
+  width: 100%;
+}
+.Login_in {
+  color: #fd7114;
+  cursor: pointer;
+  font-weight: 500;
+}
+.Login_in:hover {
+  color: #ff5c00;
+}
+
+
+.MuiCard-root {
+   overflow: visible !important; 
+}
+
+@media only screen and (min-width: 320px) and (max-width: 600px) {
+  .Register_Main_div {
+    text-align: center !important;
+    width: 350px;
+    margin: auto;
+  }
+  .form_width {
+    height: auto !important;
+    width: 350px;
+    border-radius: 8px;
+    margin-top: 30px;
+  }
+  .Register_heading {
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+  }
+}

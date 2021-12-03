@@ -1,0 +1,14 @@
+.box_home1 {
+  padding: 15px 1px !important;
+  background-color: #295c19 !important;
+  border-radius: 15px !important;
+  color: #fff !important;
+  box-shadow: 2px 2px 3px 3px olivedrab !important;
+  display: flex;
+  justify-content: space-around;
+}
+.client {
+  color: #fff !important;
+  font-size: 20px !important;
+  margin-left: 20px !important;
+}

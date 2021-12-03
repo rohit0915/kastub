@@ -1,0 +1,95 @@
+.user_properties_profile {
+  height: 100px;
+  width: 90%;
+  background-color: lightgray;
+}
+.bkh_color {
+  background-color: #a3aaff;
+  border-radius: 8px;
+  width: 70px;
+  text-align: center;
+}
+
+.pg_color {
+  background-color: #8edba8;
+  border-radius: 8px;
+  width: 70px;
+  text-align: center;
+}
+
+.shared_color {
+  background-color: #db8ebc;
+  border-radius: 8px;
+  width: 70px;
+  text-align: center;
+}
+
+.room_details {
+  display: flex !important;
+}
+
+.outside_content_border {
+  border: 0.5px solid lightgray !important;
+}
+.ac_image {
+  width: 30px;
+}
+
+.tenants_image_size {
+  height: 60px;
+  width: 90%;
+  background-color: lightgray;
+}
+
+.content_color_summary {
+  color: grey;
+}
+
+.table_foramtitng {
+  width: 100%;
+  height: auto;
+}
+
+.table_foramtitng .MuiPaper-elevation1 {
+  box-shadow: none;
+}
+.table_header {
+  color: black !important;
+  font-weight: bold !important;
+  background-color: white !important;
+}
+#table_outside_border{
+  border:1px solid lightgray !important;
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .room_details {
+    display: block !important;
+  }
+  .user_properties_profile {
+    height: 100px;
+    width: 100%;
+    background-color: lightgray;
+  }
+  .bkh_color {
+    width: 60%;
+  }
+
+  .pg_color {
+    width: 60%;
+  }
+
+  .shared_color {
+    width: 60%;
+  }
+
+  .tenants_image_size {
+    height: 60px;
+    width: 100%;
+    background-color: lightgray;
+  }
+  .table_foramtitng {
+    width: 100%;
+    overflow: scroll;
+    height: auto;
+  }
+}

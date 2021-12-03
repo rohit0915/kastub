@@ -1,0 +1,22 @@
+.support_para {
+  font-size: 15px;
+  color: lightgray;
+}
+.support_input_feild_margin {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.support_buton_width {
+  width: 20%;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 800px) {
+  .support_input_feild_margin {
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+  .support_buton_width {
+    width: 30% !important;
+  }
+}
